@@ -1,3 +1,14 @@
+# Realtor-App
+
+This app pulls in API data and allows you to search for different critera and brings up properties. The properties have full stats including pictures with a scrollbar alowing you to scroll through listing photos. 
+
+
+This application was a tutorial on JavaScript Mastery:
+https://www.youtube.com/watch?v=y47gYvXchXM&t=3962s
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
